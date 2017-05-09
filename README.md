@@ -6,4 +6,6 @@ http://dranger.com/ffmpeg/
 
 Last update: 14 July 2016
 
-FOr ubuntu, install libs: sudo apt-get install libavdevice-dev
+FOr ubuntu, install libs: 
+      sudo apt-get install libsdl1.2-dev libavdevice-dev
+
