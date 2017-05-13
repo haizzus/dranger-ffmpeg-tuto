@@ -6,6 +6,6 @@ http://dranger.com/ffmpeg/
 
 Last update: 14 July 2016
 
-For ubuntu 16, install libs: 
+For ubuntu 16 (Xenial) / Mint18, install libs: 
       sudo apt-get install libsdl1.2-dev libavdevice-dev
 
